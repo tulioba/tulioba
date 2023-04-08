@@ -4,6 +4,8 @@
 
 - Sou advogado em transição de carreira para a área de tecnologia, com interesse em desenvolvimento web e programação. Atualmente estou estudando Desenvolvimento Web FullStack para aprimorar minhas habilidades e conhecimentos técnicos e ansioso para colocar em prática todo os conhecimenntos adquiridos até então.
 
+# Estatísticas de Commits
+
 <div align="center">
   <a href="https://github.com/tulioba">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=tulioba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
