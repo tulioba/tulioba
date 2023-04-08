@@ -5,5 +5,5 @@ Sou advogado em transição de carreira para a área de tecnologia, com interess
 
 ## HABILIDADES
 
-- ![HTML]([https://exemplo.com/imagem/html.png](https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267)) HTML
+- ![HTML(https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=4&origin=search&related_id=5968267)) HTML
 
