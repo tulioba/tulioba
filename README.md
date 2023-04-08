@@ -4,6 +4,12 @@
 
 - Sou advogado em transição de carreira para a área de tecnologia, com interesse em desenvolvimento web e programação. Atualmente estou estudando Desenvolvimento Web FullStack para aprimorar minhas habilidades e conhecimentos técnicos e ansioso para colocar em prática todo os conhecimenntos adquiridos até então.
 
+<div align="center">
+  <a href="https://github.com/tulioba">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ErickArgollo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArgollo&layout=compact&langs_count=7&theme=tokyonight"/>  
+</div>
+
 ## HABILIDADES
 
 <div style="display: inline_block"><br>
@@ -24,4 +30,4 @@
 <div> 
   <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMVVzxXmWlcLvqwQnKlPFtwDvsSdkjTHQvDtvQRNtkRvzttHkxpRbjjHpTNZvlcwrbMBjNq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/tulio-barros-amorim-733399244/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-##
+
