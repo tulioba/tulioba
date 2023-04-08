@@ -27,18 +27,21 @@
 
 </div>
 
-FRAMEWORKS
+## FRAMEWORKS
   
 <div style="display: inline_block"><br>
-
  <img align="center" alt="Tulio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Tulio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="Tulio-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</div>
 
-
+## GERENCIADOR BD
+  
+<div style="display: inline_block"><br>
+ <img align="center" alt="Tulio-Redux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" />
 </div>
   
-### Contato:
+## Contato:
 
 <div> 
   <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMVVzxXmWlcLvqwQnKlPFtwDvsSdkjTHQvDtvQRNtkRvzttHkxpRbjjHpTNZvlcwrbMBjNq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
