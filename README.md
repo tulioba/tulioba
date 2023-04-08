@@ -1,5 +1,5 @@
-### Olá! Eu sou o Túlio👋
-## Sobre mim:
+### Olá! Eu sou o Túlio e seja bem-vindo👋
+## Sobre mim
 - Brasileiro, residente em Salvador-Ba.
 
 - Sou advogado 🧑‍⚖️‍ em transição de carreira para a área de tecnologia, com interesse em desenvolvimento web e programação. Atualmente estou estudando Desenvolvimento Web FullStack para aprimorar minhas habilidades e conhecimentos técnicos e ansioso para colocar em prática todo os conhecimenntos adquiridos até então.
@@ -48,7 +48,7 @@
    <img align="center" alt="Tulio-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 </div>
   
-## Contato:
+## Contato
 
 <div> 
   <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMVVzxXmWlcLvqwQnKlPFtwDvsSdkjTHQvDtvQRNtkRvzttHkxpRbjjHpTNZvlcwrbMBjNq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
