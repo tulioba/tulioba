@@ -27,15 +27,25 @@
 ## FRAMEWORKS
   
 <div style="display: inline_block"><br>
+ <img align="center" alt="Tulio-Redux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" />
  <img align="center" alt="Tulio-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  <img align="center" alt="Tulio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="Tulio-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
 
-## GERENCIADOR BD
+## GERENCIADOR DE BD
   
 <div style="display: inline_block"><br>
- <img align="center" alt="Tulio-Redux" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" />
+   <img align="center" alt="Tulio-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
+   <img align="center" alt="Tulio-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
+</div>
+  
+## AMBIENTE/PLATAFORMA DE DESENVOLVIMENTO  
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tulio-VisualStudio" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
+  <img align="center" alt="Tulio-NodeJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
+   <img align="center" alt="Tulio-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 </div>
   
 ## Contato:
