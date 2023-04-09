@@ -20,7 +20,6 @@
  <img align="center" alt="Tulio-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Tulio-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Tulio-Trello" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
- <img align="center" alt="Tulio-Slack" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
  <img align="center" alt="Tulio-vs-code" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
@@ -44,6 +43,7 @@
 ## AMBIENTE/PLATAFORMA DE DESENVOLVIMENTO  
   
 <div align="center" style="display: inline_block"><br>
+ <img align="center" alt="Tulio-Slack" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" alt="Tulio-VisualStudio" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
   <img align="center" alt="Tulio-NodeJS" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
    <img align="center" alt="Tulio-React" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
