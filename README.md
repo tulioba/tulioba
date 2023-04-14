@@ -29,6 +29,7 @@
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Tulio-Sequelize" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" />
  <img align="center" alt="Tulio-Jest" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Tulio-Jest" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />
  <img align="center" alt="Tulio-React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="Tulio-Redux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
