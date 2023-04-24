@@ -3,7 +3,7 @@
 ## Sobre mim
 - Brasileiro, residente em Salvador-Ba.
 
-- Sou advogado 🧑‍⚖️‍ em transição de carreira para a área de tecnologia, com interesse em desenvolvimento web e programação. Atualmente estou estudando Desenvolvimento Web FullStack para aprimorar minhas habilidades e conhecimentos técnicos e ansioso para colocar em prática todo os conhecimenntos adquiridos até então.
+- Advogado 🧑‍⚖️‍ em transição de carreira para a área de tecnologia, com interesse em desenvolvimento web e programação. Atualmente estou estudando Desenvolvimento Web FullStack para aprimorar minhas habilidades e conhecimentos técnicos e ansioso para colocar em prática todo os conhecimenntos adquiridos até então.
 
 # Estatísticas de Commits
 
