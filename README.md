@@ -30,6 +30,7 @@
  <img align="center" alt="Tulio-React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="Tulio-Redux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Tulio-Django" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" />
+  <img align="center" alt="Tulio-Django" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" />
 </div>
 
 ## GERENCIADOR DE BD
