@@ -42,7 +42,7 @@
 ## AMBIENTE/PLATAFORMA DE DESENVOLVIMENTO  
 <div align="center" style="display: inline_block"><br>
  <img align="center" alt="Tulio-Slack" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-  <img align="center" alt="Tulio-VisualStudio" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" />
+  <img align="center" alt="Tulio-VisualStudio" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" />
   <img align="center" alt="Tulio-NodeJS" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
    <img align="center" alt="Tulio-Github" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 </div>
